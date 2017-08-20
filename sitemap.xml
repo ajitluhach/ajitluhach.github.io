@@ -4,35 +4,35 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2017-08-20T14:28:01-00:00</lastmod>
+<loc>http://luhach.me/</loc>
+<lastmod>2017-08-20T15:06:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2017-08-20T14:28:01-00:00</lastmod>
+<loc>http://luhach.me/archives.html</loc>
+<lastmod>2017-08-20T15:06:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2017-08-20T14:28:01-00:00</lastmod>
+<loc>http://luhach.me/tags.html</loc>
+<lastmod>2017-08-20T15:06:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2017-08-20T14:28:01-00:00</lastmod>
+<loc>http://luhach.me/categories.html</loc>
+<lastmod>2017-08-20T15:06:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/pages/about.html</loc>
+<loc>http://luhach.me/pages/about.html</loc>
 <lastmod>2017-06-15T00:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
